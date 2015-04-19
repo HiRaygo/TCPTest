@@ -1,8 +1,0 @@
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\bin\Debug\TCPTest.exe.config
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\bin\Debug\TCPTest.exe
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\bin\Debug\TCPTest.pdb
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\obj\Debug\TCPTest.csprojResolveAssemblyReference.cache
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\obj\Debug\TCPTest.MainForm.resources
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\obj\Debug\TCPTest.csproj.GenerateResource.Cache
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\obj\Debug\TCPTest.exe
-C:\Users\XiaoSanya\Documents\SharpDevelopProjects\TCPTest\TCPTest\obj\Debug\TCPTest.pdb

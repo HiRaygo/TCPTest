@@ -60,6 +60,7 @@ namespace TCPTest
 		/// </summary>
 		private void InitializeComponent()
 		{
+			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
 			this.buttonStart = new System.Windows.Forms.Button();
 			this.textBoxPort = new System.Windows.Forms.TextBox();
 			this.comboBoxIP = new System.Windows.Forms.ComboBox();
@@ -245,9 +246,9 @@ namespace TCPTest
 			// statusStrip1
 			// 
 			this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-			this.toolStripStatusLabel1,
-			this.StatusLabelInfo,
-			this.toolStripStatusLabel2});
+									this.toolStripStatusLabel1,
+									this.StatusLabelInfo,
+									this.toolStripStatusLabel2});
 			this.statusStrip1.Location = new System.Drawing.Point(0, 420);
 			this.statusStrip1.Name = "statusStrip1";
 			this.statusStrip1.Size = new System.Drawing.Size(624, 22);
@@ -325,6 +326,7 @@ namespace TCPTest
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.groupBox1);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.MaximizeBox = false;
 			this.Name = "MainForm";
 			this.ShowIcon = false;
@@ -338,7 +340,6 @@ namespace TCPTest
 			this.statusStrip1.PerformLayout();
 			this.ResumeLayout(false);
 			this.PerformLayout();
-
 		}
 	}
 }
